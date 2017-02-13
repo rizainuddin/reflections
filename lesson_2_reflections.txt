@@ -19,6 +19,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	I learn alot more better when I visualize. Visualizing the branch on paper will help me and my collaborators to see what is currently is being working on. It can get confusing if I don't draw it out on paper. I can lose track easily. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
