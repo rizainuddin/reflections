@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The diff -u shows a log of the changes between new and old files. I can easily
+    spot the typo error in the old file and how it was fixed. I can also always revert
+    back to the old files or previous version of the file if I made errors. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I'm confident to know that my previous versions of solutions is stored if I ever need
+    to go back and restore. I'm also will not worry if I need to experiment with a new set of 
+    solution from my current codebase. I can always maintain a line of code that works and 
+    continue working on making other lines of code more efficient and faster. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I will have more control in making commits per logical changes. If a habit is not 
+    formed I will forget and move on to the next bug change and commit. That'll be troublesome
+    and I will most likely undo the changes and commit. This can be logged and the history
+    of changes cluttered with too many changes. Need to affirm my purpose, for every logical
+    changes I will commit the version.
+    Helps in the debugging process. Manually committing can make me as a developer to track
+    changes. More control is planning bigger problems or bigger experiments and breaking it down
+    into small chunks or problems as commits. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Multiple files may use the same commands from another files. Allowing it to save 
+    as a one commit can enable me to see which files were affected. Version control history
+    will also be cleaner and not cluttered with too many commits if it were to handle
+    separely. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    When I want to search through a history of commits by users, dates, id and comments I will use
+    git log. I will then use git diff to search in more details what was change between two files
+    like how many lines of code added or removed. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I can experiment with confidence that my other functions are preserved. Not being able keeping track on these changes can cause a very big issue the days weeks or months to come. It'll be annoying to waste so much time copy and pasting from backups of multiple files. I can break another developers code without worry. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Setting up the workspace took a few hours. Going through the instructions again and again to make sure I did not miss any details. Alhamdulillah, I manage to get it work using the symbolic link (soft link or alias) to sublime application folder. Now, since I'm enrolled in the nanodegree program, I would want to try Git for my exercises in Xcode. 
