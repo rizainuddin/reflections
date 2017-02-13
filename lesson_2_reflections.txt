@@ -10,6 +10,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	I use 'git diff' between working and staging area to check how many files where modified before committing. Before commit I can check whether if the changes I made to the file is correct with the version on the repository. I will use 'git diff --staged'.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
