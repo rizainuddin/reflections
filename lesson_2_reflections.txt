@@ -14,6 +14,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	When I want to experiment with a totally new version, new language, different browsers, different planets,etc. Branch will help me organized these as separate projects and I can always fall back into the master if I'm having trouble working on those new experiments or features. 
 
 How do the diagrams help you visualize the branch structure?
 
