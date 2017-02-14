@@ -28,3 +28,7 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	By automatic Git wouldn't know which line of codes are the right ones to use between 2 or more collaborators. However, when merged Git automatically put labels on lines of codes that was done between all the collaborators. This can make finding the conflict easier to edit and/or delete. I would suggest myself to discuss with the collaborators first before committing or merging. There can be a scenario where the file can have lines or lines of code and hard to detect what changes were made. 
+
+	
