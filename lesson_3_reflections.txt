@@ -1,1 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+I'll find this process very useful when I change Mac between my personal,home and work machines. There'll situations where I don't have my files with me all the time. I'm more flexible and in control of my projects this way. 
