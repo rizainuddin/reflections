@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-I'll find this process very useful when I change Mac between my personal,home and work machines. There'll situations where I don't have my files with me all the time. I'm more flexible and in control of my projects this way. 
+	I'll find this process very useful when I change Mac between my personal,home and work machines. There'll situations where I don't have my files with me all the time. I'm more flexible and in control of my projects this way.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	I wouldn't know what changes to the files were made from the various machines I'll be working on, my other collaborators on the project, files that I'm working on locally. I also would want a better organization of files and be in control of it.
+
