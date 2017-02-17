@@ -37,4 +37,11 @@ remote stored locally?
 
 	I'm able to work offline with the latest remote changes. When I'm connected to the internet, if there are newer commits I'm still able to check the difference and merge the master file if needed.
 
+How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
 
+	It'll be more annoying now knowing the value of collaborating 
+	file on cloud. Without such applications I will have to either email 
+	or upload onto to a cloud app e.g. Dropbox. The the other person
+	will need to download to make edits and re-upload again for me to 
+	check. So much time is wasted. I wouldn't say that it would easier.
